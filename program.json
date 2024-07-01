@@ -1,0 +1,14 @@
+{
+  "program": "collector.aleo",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name": "prize.aleo",
+      "location": "local",
+      "network": null,
+      "path": "prize"
+    }
+  ]
+}
